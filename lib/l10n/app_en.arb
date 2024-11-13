@@ -1,0 +1,15 @@
+{
+    "appTitle": "Event Manager",
+    "addEvent": "Add Event",
+    "eventDetail": "Detail Event",
+    
+    "day": "Day",
+    "week": "Week",
+    "workWeek": "Work Week",
+    "month": "Month",
+    "timelineDay": "Timeline Day",
+    "timelineWeek": "Timeline Week",
+    "timelineWorkWeek": "Timeline Work Week",
+    "timelineMonth": "Timeline Month",
+    "schedule": "Schedule"
+}

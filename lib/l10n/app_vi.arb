@@ -1,0 +1,15 @@
+{
+    "appTitle": "Quản lý sự kiện",
+    "addEvent": "Thêm sự kiện",
+    "eventDetail": "Chi tiết sự kiện",
+
+    "day": "Ngày",
+    "week": "Tuần",
+    "workWeek": "Ngày Làm Việc",
+    "month": "Tháng",
+    "timelineDay": "Timeline Day",
+    "timelineWeek": "Timeline Week",
+    "timelineWorkWeek": "Timeline Work Week",
+    "timelineMonth": "Timeline Month",
+    "schedule": "Lịch Trình"
+}
